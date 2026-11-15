@@ -103,29 +103,9 @@ Also explored model evaluation using Mean Squared Error (MSE), Mean Absolute Err
 - Explored different machine learning algorithms.
 - Understood the importance of feature preprocessing and model evaluation.
 
-## 🚀 How to Run This Project
+`
 
-**Step 1:** Clone the repository.
 
-```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
-```
-
-**Step 2:** Install the required libraries.
-
-```bash
-pip install pandas numpy matplotlib seaborn pandasql scikit-learn tensorflow jupyter
-```
-
-**Step 3:** Place all six CSV datasets in the project directory.
-
-**Step 4:** Open Jupyter Notebook.
-
-```bash
-jupyter notebook
-```
-
-**Step 5:** Open the project notebook and execute the cells.
 
 ## 👨‍💻 Project Type
 
